@@ -1,6 +1,6 @@
-# Hi, I'm Jordan 👋
+# Hi, I'm Jordan 
 
-CS senior at the University of Georgia (May 2026) focused on full-stack and backend development. I build and ship real products.
+I graduated from The University of Georgia (May 2026) focused on full-stack and backend development.
 
 ## Featured Projects
 
